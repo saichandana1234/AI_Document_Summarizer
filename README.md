@@ -50,3 +50,18 @@ Summary      Key Points
 Document Statistics
         ↓
 Download Summary
+
+
+## Screenshots
+
+### Main Page
+
+![Main Page](screenshots/main-page.png)
+
+### Document Upload and Statistics
+
+![Upload and Statistics](screenshots/upload-and-stats.png)
+
+### AI-Generated Summary and Key Points
+
+![Summary Result](screenshots/summary-result.png)
